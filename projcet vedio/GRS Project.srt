@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:05,160
+Online Grievance Redressal System
+
+2
+00:00:05,160 --> 00:00:09,529
+This is the Login Panel Here we can log into different types of User. 
+
+3
+00:00:09,529 --> 00:00:18,000
+This is student registration page where students can register their account. 
+
+4
+00:00:18,000 --> 00:00:21,465
+Lets log in to a student account 
+
+5
+00:00:21,465 --> 00:00:26,707
+Enter Student ID and Password
+
+6
+00:00:26,707 --> 00:00:29,432
+This is student Dashboard
+
+7
+00:00:29,432 --> 00:00:37,893
+From Sidebar  you can go to Complain->My Complain to check your previous complains and their status.
+
+8
+00:00:37,893 --> 00:00:39,893
+You can also  create a new complain.  
+
+9
+00:00:40,645 --> 00:00:41,953
+Complain Type
+
+10
+00:00:44,502 --> 00:00:46,502
+Complain Title
+
+11
+00:00:48,235 --> 00:00:50,235
+Complain Details
+
+12
+00:01:05,298 --> 00:01:09,681
+Complain Department
+
+13
+00:01:11,541 --> 00:01:23,430
+Upload Files
+
+14
+00:01:31,599 --> 00:01:35,531
+Lets check the complain we just created.
+
+15
+00:01:35,531 --> 00:01:44,846
+You can View the complain details and chat with the department 
+
+16
+00:01:48,057 --> 00:01:49,583
+Logging Out
+
+17
+00:01:50,513 --> 00:01:55,854
+Log in as Department
+
+18
+00:01:57,251 --> 00:01:59,718
+Department Dashboard
+
+19
+00:02:02,152 --> 00:02:04,668
+Department Admin can view all students and update & delete their profile.
+
+20
+00:02:05,663 --> 00:02:09,092
+Department Can also add new students
+
+21
+00:02:18,912 --> 00:02:34,758
+Department can view all the complains and reply to their complains 
+
